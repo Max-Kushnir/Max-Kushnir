@@ -6,9 +6,9 @@ I specialize in building reliable and scalable **backend systems**, with a passi
 ---
 
 ## Tech Stack
-**Languages:** Python, SQL, Java, C, JavaScript, HTML/CSS  
-**Frameworks & Tools:** FastAPI, Flask, SQLAlchemy, Docker, Pydantic, pytest, PostgreSQL, scikit-learn, seaborn, NumPy, Pandas  
-**Other Tools:** Git/GitHub, Jira, Poetry, Uvicorn, Jupyter, Cursor
+**Programming Languages:** Python, SQL, C, Java, JavaScript, HTML/CSS, OCaml, MIPS
+**Frameworks:** FastAPI, Flask, SQLAlchemy, Pydantic, JWT, scikit-learn, NumPy, pandas, Scrapy, pytest, React.js
+**Tools:** Git, PostgreSQL, Docker, Render, Jira, Jupyter, Poetry, Uvicorn, Unix
 
 ---
 
