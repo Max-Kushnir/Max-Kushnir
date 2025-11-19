@@ -22,8 +22,8 @@ I specialize in building reliable and scalable **backend systems**, with a passi
 ![Databases](https://skillicons.dev/icons?i=postgres,mongodb,supabase)
 
 ## Let’s Connect!
-maxekushnir@gmail.com  
-[![Databases](https://skillicons.dev/icons?i=gmail)][(https://www.linkedin.com/in/maxime-kushnir)] 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](maxekushnir@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maxime-kushnir)
 [GitHub](https://github.com/Max-Kushnir)
 
 ---
