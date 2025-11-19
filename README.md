@@ -22,7 +22,7 @@ I specialize in building reliable and scalable **backend systems**, with a passi
 ![Databases](https://skillicons.dev/icons?i=postgres,mongodb,supabase)
 
 ## Let’s Connect!
-![LinkedIn](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/maxime-kushnir)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/maxime-kushnir)
 
 ---
 
