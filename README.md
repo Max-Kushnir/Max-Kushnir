@@ -7,19 +7,19 @@ I specialize in building reliable and scalable **backend systems**, with a passi
 
 ## Languages
 
-[![Languages](https://skillicons.dev/icons?i=py,ts,js,c,java,html,css)]
+![Languages](https://skillicons.dev/icons?i=py,ts,js,c,java,html,css)
 
 ## Tools
 
-[![Tech Stack](https://skillicons.dev/icons?i=docker,git,prisma,vite,postman)]
+![Tools](https://skillicons.dev/icons?i=docker,git,prisma,vite,postman)
 
 ## Frameworks 
 
-[![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,express,nodejs,tailwind,fastapi,flask)]
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,nodejs,tailwind,fastapi,flask)
 
 ## Databases
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,supabase)]
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,supabase)
 
 
 
