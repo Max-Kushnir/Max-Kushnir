@@ -11,23 +11,17 @@ I specialize in building reliable and scalable **backend systems**, with a passi
 
 ## Tools
 
-[![Tech Stack](https://skillicons.dev/icons?i=docker,react,nextjs,express,nodejs,fastapi,prisma,postman,tailwind,flask,git,github)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=docker,git,prisma,vite,postman)](https://skillicons.dev)
+
+## Frameworks 
+
+[![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,express,nodejs,tailwind,fastapi,flask)](https://skillicons.dev)
 
 ## Databases
 
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,supabase)](https://skillicons.dev)
 
-## Frameworks
 
-
-
----
-
-## Experience Highlights
-- Freelance SWE – Built a scalable REST API from scratch for a client using Agile/Scrum practices on Upwork.
-- Giant Machines (acquired by Deloitte) – Created a weather dashboard with Flask, API integration, and dynamic UI.
-
----
 
 ## Leadership & Involvement
 - Vice President, Website Development Club @ Stony Brook
