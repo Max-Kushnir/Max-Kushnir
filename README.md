@@ -1,7 +1,9 @@
 # Hi, I’m Max Kushnir
 
 I'm a junior at Stony Brook University, pursuing a B.S. in **Computer Science** and **Applied Mathematics & Statistics**.  
-I specialize in building reliable and scalable **backend systems**, with a passion for creating APIs and applications that solve meaningful problems.  
+I specialize in building reliable and scalable **backend systems**, with a passion for creating APIs and applications that solve meaningful problems. 
+
+##
 
 [![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-Kushnir)](https://github.com/anuraghazra/github-readme-stats)
 
