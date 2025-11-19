@@ -21,20 +21,10 @@ I specialize in building reliable and scalable **backend systems**, with a passi
 
 ![Databases](https://skillicons.dev/icons?i=postgres,mongodb,supabase)
 
-
-
-## Leadership & Involvement
-- Vice President, Website Development Club @ Stony Brook
-  
----
-
 ## Let’s Connect!
 maxekushnir@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/maxime-kushnir)  
+[![Databases](https://skillicons.dev/icons?i=gmail)][(https://www.linkedin.com/in/maxime-kushnir)] 
 [GitHub](https://github.com/Max-Kushnir)
 
 ---
-
-*Always open to collaboration, learning opportunities, and new challenges in backend, data, or fintech.*  
-
 
