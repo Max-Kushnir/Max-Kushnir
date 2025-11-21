@@ -1,7 +1,7 @@
 # Hi, I’m Max Kushnir
 
 I'm a junior at Stony Brook University, pursuing a B.S. in **Computer Science** and **Applied Mathematics & Statistics**.  
-I specialize in building reliable and scalable **backend systems**, with a passion for creating APIs and applications that solve meaningful problems. 
+I build full-stack apps and backend systems, with a passion for solving real problems with software. 
 
 ##
 
