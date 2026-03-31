@@ -17,7 +17,7 @@ I build full-stack apps and backend systems, with a passion for solving real pro
 
 ## Frameworks 
 
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,nodejs,tailwind,fastapi,flask)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,nodejs,tailwind,fastapi,flask,rails)
 
 ## Databases
 
