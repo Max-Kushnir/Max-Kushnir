@@ -9,7 +9,7 @@ I build full-stack apps and backend systems, with a passion for solving real pro
 
 ## Languages
 
-![Languages](https://skillicons.dev/icons?i=py,ts,js,c,java,html,css)
+![Languages](https://skillicons.dev/icons?i=py,ruby,ts,js,c,java,html,css)
 
 ## Tools
 
