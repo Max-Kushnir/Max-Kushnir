@@ -5,8 +5,7 @@ I build full-stack apps and backend systems, with a passion for solving real pro
 
 ##
 
-[![Max's Stats](https://streak-stats.demolab.com/?user=Max-Kushnir)](https://git.io/streak-stats)
-
+[![Stats](https://streak-stats.demolab.com?user=Max-Kushnir&theme=android-dark&short_numbers=true&mode=weekly&fire=EB5454&hide_current_streak=true)](https://git.io/streak-stats)
 ## Languages
 
 ![Languages](https://skillicons.dev/icons?i=py,ruby,ts,js,c,java,html,css)
