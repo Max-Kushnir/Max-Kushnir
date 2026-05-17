@@ -5,7 +5,7 @@ I build full-stack apps and backend systems, with a passion for solving real pro
 
 ##
 
-[![Max's Stats](https://github-readme-stats.vercel.app/api?username=Max-Kushnir)](https://github.com/Max-Kushnir/github-readme-stats)
+[![Max's Stats](https://streak-stats.demolab.com/?user=Max-Kushnir)](https://git.io/streak-stats)
 
 ## Languages
 
