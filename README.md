@@ -8,15 +8,15 @@ I build full-stack apps and backend systems, with a passion for solving real pro
 [![Stats](https://streak-stats.demolab.com?user=Max-Kushnir&theme=android-dark&short_numbers=true&mode=weekly&fire=EB5454&hide_current_streak=true)](https://git.io/streak-stats)
 ## Languages
 
-![Languages](https://skillicons.dev/icons?i=py,ruby,ts,js,c,java,html,css)
+![Languages](https://skillicons.dev/icons?i=py,java,c,ruby,ts)
 
 ## Tools
 
-![Tools](https://skillicons.dev/icons?i=docker,git,prisma,vite,postman)
+![Tools](https://skillicons.dev/icons?i=docker,git,bash,aws,prisma,vite,postman)
 
 ## Frameworks 
 
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,nodejs,tailwind,fastapi,flask,rails)
+![Frameworks](https://skillicons.dev/icons?i=fastapi,flask,rails,react,nextjs,express,nodejs)
 
 ## Databases
 
