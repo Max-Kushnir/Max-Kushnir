@@ -1,6 +1,6 @@
 # Hi, I’m Max Kushnir
 
-I'm a junior at Stony Brook University, pursuing a B.S. in **Computer Science**.  
+I'm a Senior at Stony Brook University, pursuing a B.S. in **Computer Science**.  
 I build full-stack apps and backend systems, with a passion for solving real problems with software. 
 
 ##
