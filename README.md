@@ -3,9 +3,6 @@
 I'm a Senior at Stony Brook University, pursuing a B.S. in **Computer Science**.  
 I build full-stack apps and backend systems, with a passion for solving real problems with software. 
 
-##
-
-[![Stats](https://streak-stats.demolab.com?user=Max-Kushnir&theme=android-dark&short_numbers=true&mode=weekly&fire=EB5454&hide_current_streak=true)](https://git.io/streak-stats)
 ## Languages
 
 ![Languages](https://skillicons.dev/icons?i=py,java,c,ruby,ts)
