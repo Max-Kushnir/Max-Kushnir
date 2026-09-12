@@ -60,5 +60,3 @@ I’m currently seeking **new grad backend software engineering roles** focused 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="42" height="42"/>
 </a>
 
----
-
